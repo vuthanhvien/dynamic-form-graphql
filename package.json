@@ -1,0 +1,23 @@
+{
+  "name": "dymamic-form-graphql",
+  "version": "0.0.1",
+  "description": "Dynamic form use graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuthanhvien/dynamic-form-graphql.git"
+  },
+  "keywords": [
+    "dynamic",
+    "form"
+  ],
+  "author": "vien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vuthanhvien/dynamic-form-graphql/issues"
+  },
+  "homepage": "https://github.com/vuthanhvien/dynamic-form-graphql#readme"
+}
